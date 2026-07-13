@@ -39,7 +39,7 @@
 
 <h2 align="left">🎓 CERTIFICATIONS</h2>
 
-- **IBM Full Stack Software Developer Professional Certificate** — Coursera **
+- **IBM Full Stack Software Developer Professional Certificate** — Coursera 
 
 ---
 
