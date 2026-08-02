@@ -18,7 +18,7 @@
 
 - 💼 Completed a 8 month industrial training as a **UI/UX Designer & Frontend Developer Trainee** at **Regional Development Bank (RDB)**
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing, onsite and remote.
 
 - 💬 Ask me about **React, Python, JavaScript, HTML/CSS**
   
