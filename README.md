@@ -1,6 +1,6 @@
 <h1 align="center">Hey Developers👋 </h1>
 
-<div align="center" size="20px"> I'm Shashini Rathanayake.Thanks for taking the time to explore my work!</div>
+<div align="center" size="20px"> I'm Shashini Rathnayake.Thanks for taking the time to explore my work!</div>
 
 <h3 align="center">A passionate Software Engineer and UI/UX Designer from Sri Lanka.</h3>
 
@@ -16,7 +16,7 @@
 
 - 👩‍🎓 I'm a software engineering student at **NAITA**
 
-- 💼 Completed a 8 month industrial training as a **UI/UX Designer & Frontend Developer Trainee** at **Regional Development Bank (RDB)**
+- 💼 Completed a 8-month industrial training as a **UI/UX Designer & Frontend Developer Trainee** at **Regional Development Bank (RDB)**
 
 - 🤝 I’m available for freelancing, onsite and remote.
 
