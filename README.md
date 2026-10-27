@@ -29,7 +29,7 @@ I'm a **Full Stack Developer and UI/UX Designer** from Sri Lanka, passionate abo
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next.js,nodejs,js,python,django,mysql,supabase,figma,git,github,vercel&perline=20" alt="Tech stack: HTML,CSS, React, Next.js, Node.js, Python, Django, MySQL, Supabase, Figma, Git, GitHub, Vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,react,next.js,nodejs,js,python,django,mysql,supabase,figma,git,github,vercel&perline=20" alt="Tech stack: HTML,CSS, React, Next.js, Node.js, Python, Django, MySQL, Supabase, Figma, Git, GitHub, Vercel" />
 
 </div>
 
