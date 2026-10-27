@@ -1,57 +1,64 @@
-<h1 align="center">Hey Developers👋 </h1>
 
-<div align="center" size="20px"> I'm Shashini Rathnayake.Thanks for taking the time to explore my work!</div>
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Shashini&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=58" alt="Banner: text=Hi,%20I'm%20Shashini%20Rathnayake - Full Stack Developer and UI/UX Designer" width="100%" />
 
-<h3 align="center">A passionate Software Engineer and UI/UX Designer from Sri Lanka.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinirathnayake2111-afk&label=Profile%20views&color=0e75b6&style=flat" alt="shashinirathnayake2111-afk" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://shashini-rathnayake-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashini-rathnayake-dev/)
+[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashinirathnayake2111@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=shashinirathnayake2111-afk&style=for-the-badge&color=6366f1&label=Profile+Views)
 
----
+</div>
 
-<h2 slign="left">ABOUT ME</h2>
+## 👋 About me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+I'm a **Full Stack Developer and UI/UX Designer** from Sri Lanka, passionate about human-centered design, accessible interfaces, and building production-quality systems.
 
-- 🌱 I’m currently learning **Fullstack Development**
+ <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-- 👩‍🎓 I'm a software engineering student at **NAITA**
+- 🎓 IBM Full Stack Software Developer Professional Certificate
+- 🎓 NAITA Diploma in Software Engineering
+- 🎨 I design in Figma, then build it in code
+- 🌱 Currently building apps that solve real problems for people in Sri Lanka
+- 💬 Ask me about React, Next.js, Node.js, Python, HTML, CSS, JavaScript or UI/UX
 
-- 💼 Completed a 8-month industrial training as a **UI/UX Designer & Frontend Developer Trainee** at **Regional Development Bank (RDB)**
+  <br>
 
-- 🤝 I’m available for freelancing, onsite and remote.
+## 🛠️ Tech stack
 
-- 💬 Ask me about **React, Python, JavaScript, HTML/CSS**
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next.js,nodejs,js,python,django,mysql,supabase,figma,git,github,vercel&perline=20" alt="Tech stack: HTML,CSS, React, Next.js, Node.js, Python, Django, MySQL, Supabase, Figma, Git, GitHub, Vercel" />
+
+</div>
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Recover.lk**](https://github.com/shashinirathnayake2111-afk/Recover.lk) | A web application developing for migraine patients to work their day-to-day life works easily and track migraine pains and reasons, doctor channeling 24/7 through site with migraine patient friendly user interface.  | React, Node.js, Supabase |
+| [**Portfolio**](https://github.com/shashinirathnayake2111-afk/Shashini_Rathnayake_Portfolio) | My personal portfolio including my career journey with education, projects, skills etc | React, Vite, Framer Motion, Vercel |
+| [**Waves.lk**](https://github.com/shashinirathnayake2111-afk/Waves-Premium_Music_Website) | A Music Hub with offline and online with zero user storage.| Next.js, Typescript, Jamendo API  |
+| [**Lomiees**](https://github.com/shashinirathnayake2111-afk/Lomiees-Website) | An E-Commerce clothing store with advanced shopping features like virtual try on and size recommender .| HTML, CSS, JavaScript, Flask, Python, Gemini API, SQLite  |
+
+## 📊 GitHub stats
+
+<div align="center">
   
-- 📫 How to reach me **shashinirathnayake2111@gmail.com**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashinirathnayake2111-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinirathnayake2111-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
----
+<img src="https://streak-stats.demolab.com?user=shashinirathnayake2111-afk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<h2 align="left">🚀 FEATURED PROJECTS</h2>
+</div>
 
-| Project | Description |
-|---|---|
-| **[ForgeX](https://github.com/shashinirathnayake2111-afk/ForgeX-Fitness-Website)** | Fitness platform built with React, Vite, Supabase & Gemini API — live on Vercel |
-| **[Lomiees](https://github.com/shashinirathnayake2111-afk/Lomiees-Website)** | E-commerce platform with virtual try-on, built with html, css, Js, Python, Flask with SQLite |
-| **[Surprise Birthday Card](https://github.com/shashinirathnayake2111-afk/Surprise-Birthday-Card)** | Fun interactive app built with React 18, Framer Motion & Canvas Confetti |
+## 🤝 Let's connect
 
----
+I'm open to collaborations, freelance work, and interesting conversations about design and code.
 
-<h2 align="left">🎓 CERTIFICATIONS</h2>
+<div align="center">
 
-- **IBM Full Stack Software Developer Professional Certificate** — Coursera 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=100&section=footer" alt="" width="100%" />
 
----
-
-<h2 align="left">GET TOUCH WITH ME</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shashini-rathnayake-628983326/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.behance.net/shashinirathnayeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shashini rathnayeke" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">WHAT CAN I DO <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
----
-
-
+</div>
