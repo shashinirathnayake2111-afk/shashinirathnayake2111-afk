@@ -1,6 +1,5 @@
-
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Shashini&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=58" alt="Banner: text=Hi,%20I'm%20Shashini%20Rathnayake - Full Stack Developer and UI/UX Designer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=180&section=header&text=text=Hi,%20I'm%20Shashini%20Rathnayake&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=58" alt="Banner: text=Hi,%20I'm%20Shashini%20Rathnayake - Full Stack Developer and UI/UX Designer" width="100%" />
 
 <div align="center">
 
